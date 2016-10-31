@@ -5,7 +5,7 @@ bio:            'Austin Letson'
 description:    "Software Developer, Computer Science Student"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            http://austinletson.github.io
+url:            https://austinletson.github.io
 
 # Jekyll
 permalink:      /:title/
