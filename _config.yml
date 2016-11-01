@@ -5,7 +5,7 @@ bio:            'Computer Science Student, Musician, Runner'
 description:    "Software Developer, Computer Science Student"
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            https://austinletson.github.io
+url:            http://localhost:4000
 
 # Jekyll
 permalink:      /:title/
