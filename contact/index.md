@@ -5,4 +5,4 @@ tags: [contact]
 date: 2016-10-31
 ---
 
-<mailto:austin.letson@gatech.edu>
+The best way to get in touch with me is through my email: <mailto:austin.letson@gatech.edu>

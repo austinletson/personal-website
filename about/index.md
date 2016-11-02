@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about, Jekyll, theme, ramme]
+tags: [about]
 date: 2016-10-31
 ---
 ![Logo]({{ site.url }}/{{ site.picture }}){: .selfie}
