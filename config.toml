@@ -1,0 +1,4 @@
+baseURL = "https://austinletson.github.io/"
+languageCode = "en-us"
+title = "Austin Letson"
+theme="hyde"
