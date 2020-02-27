@@ -1,3 +1,11 @@
 [submodule "themes/erblog"]
 	path = themes/erblog
 	url = https://github.com/ertuil/erblog
+[submodule "austinletson.github.io"]
+	path = austinletson.github.io
+	url = https://github.com/austinletson/austinletson.github.io
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/austinletson/austinletson.github.io
+	branch = master
