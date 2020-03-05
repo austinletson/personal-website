@@ -20,18 +20,13 @@ theme="erblog"
 
     <br />
     """
-    copyright = "Copyright © 2020, Austin Letson with help from Steve Francia and the Hugo Authors; all rights reserved."
+    copyright = "Copyright © 2020, Austin Letson with help from the Hugo Authors; all rights reserved."
 
 
 [[menu.main]]
     url = "/projects/"
     name = "Projects"
     weight = 7
-
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 8
 
 [[menu.icon]]
     url = "mailto:aletson2357@gmail.com"
