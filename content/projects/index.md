@@ -9,10 +9,19 @@ type: about
 Tap is a cross platform (Android and iOS) data sharing app which allows users to share contact information  and follow each other on social media by simply tapping their phones together. After launch, Tap garnered over 2,500 users.
 
 
- Settings Screen  | Tap Complete Screen! 
+ ##Settings Screen  | ##Tap Complete Screen! 
 :-------------------------:|:-------------------------:
 ![Microsoft Word](/img/tapimg1.png) | ![Microsoft Word](/img/tapimg2.png)
 
+# Tap Website
+
+Here is the marketing website I designed for Tap Technologies. 
+
+![Website image 1](/img/Capture.PNG)
+
+![Website image 2](/img/Capture1.PNG)
+
+[Tap Website on GitHub](https://github.com/austinletson/tap-website)
 
 # Filmstore
 
@@ -37,8 +46,7 @@ FarmTerm is a 100% CLI game using TermUI and Go.
 
 # tengine
 
-tengine is a Java library to simplify command line interfaces using annotations. 
-
+tengine is a Java library to simplify command line interfaces. It leverages annotation syntax to provide an intuitive and powerful interface for CLI applications.
 [tengine on GitHub](https://github.com/austinletson/tengine)
 
 
