@@ -16,34 +16,38 @@ categories : [
 > "We are thickly layered, page lying upon page, behind simple covers. And love - it is not the book itself, but the binding."
 Deb Caletti
 
-Some books are made to be read some books were made to be bound. Before dust jackets, the binding of a book was the main way that readers were introduced to a  
+Some books are made to be read some books were made to be bound. 
 
-Bindings serve three main purposes. Above all, the binding enforces the order of the pages and holds the text block in place for for the reader. Even reading copies of books with sturdy bindings can last hundreds of years. Second to structure, the boards and the spine serve as a canvas for art and text. These elements are an integral elements of the first moments between book and reader. The spine is exposed on the shelf for the reader to ultimately judge the contents of the book. Most books in libraries and book shops never make it past this preliminary phase of selection. Their spines are insufficiently sexy or desperately baroque. Though a beautiful spine is not enough. For the reader to flip through the pages before deciding to read a book, first they must examine front and back boards.
+Bindings serve three purposes. Above all, the binding enforces the order of the pages and holds the text block in place for for the reader. Even reading copies of books with sturdy bindings can last hundreds of years. Second to structure, the boards and the spine serve as a canvas for art and text. These elements are an integral elements of the first moments between book and reader. The spine is exposed on the shelf for the reader to ultimately judge the contents of the book. Most books in libraries and book shops never make it past this preliminary phase of selection. Their spines are insufficiently sexy or desperately baroque. Though a beautiful spine is not enough. First the reader must examine the front and back boards, searching for a reason to flip through the pages.
 
-The third purpose and the reason for this discussion is the intrinsic aesthetic value of a book binding. An unremarkable text in an attractive binding becomes remarkable. In the modern primary market, bindings are deemphasized in favor of dust jackets. 
-
-![William Pickering](/img/bindings-and-boards/pick.jpg)
-
-
-The introduction of the modern cloth binding came in 1921 when William Pickering published a small run of so called Diamond Classics for the 4.5 point, yes 4.5 point, Diamond type. The books sported Morroco leather or cloth bindings which held Virgil in Latin. 
-![Pickering Diamond Classics Cicero](/img/bindings-and-boards/diamond-classic-cicero.jpg)
-When dust jackets first appeared in the early eighteenth century they were designed to protect the binding. They enclosed the book entirely to cover the text block. In most cases, they were not intended to be reused after the original unwrapping either by booksellers or book buyers. The flap style jackets which are popular today were not prevalent until the 1890s
-Next lets look at some interesting bindings which showcase the beauty of tradition book binding. First is an
-
-![Italian Spine](/img/bindings-and-boards/italian-spine.png)
+The third purpose and the reason for this discussion is the intrinsic aesthetic value of a book binding. An unremarkable text in an attractive binding becomes remarkable.  
 
 
 
-![Italian Boards](/img/bindings-and-boards/italian-board.png)
+The introduction of the modern cloth binding came in 1821 when William Pickering published a small run of so called Diamond Classics for the 4.5 point, yes 4.5 point, Diamond type. The books sported Morroco leather or cloth bindings which held Virgil in Latin. Below is a later volume containing Cicero with a penny for scale.
+
+ Pickering | Diamond Classics Cicero 
+:-------------------------:|:-------------------------:
+ ![William Pickering](/img/bindings-and-boards/pick.jpg) | ![Pickering Diamond Classics Cicero](/img/bindings-and-boards/diamond-classic-cicero.jpg) 
 
 
-![Hyperion Spine](/img/bindings-and-boards/hyperion-spine.png)
+The modern primary market deemphasizes bindings in favor of dust jackets. When jackets first appeared in the early eighteenth century, they enclosed the book entirely, covering the text block. In most cases, they were not designed for reuse after the original unwrapping, sometimes not even reaching the eyes of the buyer. The flap style jackets which are popular today were not prevalent until the 1890s. Jackets use imagery and text to advertise the contents of the book where bindings generally sport minimalist and abstract art. 
+
+In closing, lets look at some interesting bindings which showcase the beauty of traditional book binding. First is an French novel with titled *Paris Burns by the Town*. It bears a beautiful white leather spine which imitates older bindings made of animal skin. Along the spine are gilt grenades and firearms which tastefully establish theme alongside the popping blue and orange paint.
+
+The boards are red and blue marble with yellow accent. The contrast between the white leather from the spine and the multicolored boards leaves the reader with a taste of conflict before opening the book.
+
+I don't speak French, but from the binding alone, I an intrigued.
 
 
-![Hyperion Boards](/img/bindings-and-boards/hyperion-board.png)
+
+ Spine | Boards 
+:-------------------------:|:-------------------------:
+![French Spine](/img/bindings-and-boards/italian-spine.png) | ![French Boards](/img/bindings-and-boards/italian-board.png)
 
 
-Sources:
+Book binding has a rich history which I couldn't hope to cover here. The practical and artistic tradition of preserving and binding text dates back even before printing. This tradition give us all an opportunity to look under the jacket.
+Sources and further reading:
 
 [Things You Didn't Know About the History of Book Binding](https://www.advantagebookbinding.com/blog/book-binding/things-didnt-know-history-book-binding/)
 
