@@ -43,7 +43,7 @@ My personal dot files for Emacs and Vim are available on GitHub. I am constantly
 
 FarmTerm is a 100% CLI game using TermUI and Go. 
 
-[Emacs config on GitHub](https://github.com/austinletson/cli-go-farm)
+[FarmTerm on GitHub](https://github.com/austinletson/cli-go-farm)
 
 # tengine
 
