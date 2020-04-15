@@ -13,8 +13,8 @@ categories : [
 ]
 ---
 
-> "We are thickly layered, page lying upon page, behind simple covers. And love - it is not the book itself, but the binding."
-Deb Caletti
+> “We are thickly layered, page lying upon page, behind simple covers. And love - it is not the book itself, but the binding.”
+― Deb Caletti
 
 Bindings serve three purposes. Above all, the binding enforces the order of the pages and holds the text block in place for the reader. Reading copies of books with sturdy bindings can last hundreds of years. Second to structure, the boards and the spine serve as an advertisement. These elements participate in the first moments between book and reader. The spine is exposed on the shelf for the reader to judge the contents. Most books in libraries and book shops never make it past this preliminary phase of selection. Their spines are insufficiently sexy or desperately baroque. Though a beautiful spine is not enough. Next the reader must examine the front and back boards, searching for a reason to flip through the pages. Only after the binding has played its hand does the reader take to the text. The third purpose lies in the aesthetic value of a book binding. An unremarkable text in an attractive binding becomes remarkable. 
 
