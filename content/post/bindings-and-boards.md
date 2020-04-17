@@ -1,5 +1,5 @@
 ---
-title: "A Little Spine: and Why We Should All Be Judging Books by Their Covers"
+title: "A Little Spine: Why We Should All Be Judging Books by Their Covers"
 date: "2020-04-14" 
 draft: false 
 tags : [
@@ -20,7 +20,7 @@ Bindings serve three purposes. Above all, the binding enforces the order of the 
 
 In the 15th century the combination of the printing press and cotton paper led to a standardization of binding. The rounding of edges and the use of shoulders to support the text block inspired the upright storage of books and the placement of spinal titles. Here binding picks up speed as an art form of its own.
 
-The introduction of the modern cloth binding came in 1821 when William Pickering published a small run of so called Diamond Classics for the 4.5 point, yes 4.5 point, Diamond type. The books sported Morroco leather or cloth bindings which held Virgil in Latin. Below is a later volume containing Cicero with a penny for scale.
+The introduction of the modern cloth binding came in 1821 when William Pickering published a small run of so-called Diamond Classics for the 4.5 point, yes 4.5 point, Diamond type. The books sported Morroco leather or cloth bindings which held Virgil in Latin. Below is a later volume containing Cicero with a penny for scale.
 
  Pickering | Diamond Classics Cicero 
 :-------------------------:|:-------------------------:
@@ -33,7 +33,7 @@ Lets look at an interesting binding which showcases the beauty of traditional bo
 
 The boards are red and blue marble with yellow accent. The contrast between the white leather spine and the multicolored boards leaves the reader with a taste of conflict before opening the book.
 
-I don't speak French, but I an intrigued.
+I don't speak French, but I am intrigued.
 
  Spine | Boards 
 :-------------------------:|:-------------------------:
