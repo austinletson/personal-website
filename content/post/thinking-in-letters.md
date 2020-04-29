@@ -1,5 +1,5 @@
 ---
-title: "Thinking in Letters: Why Word Processors are Anti-Words"
+title: "Thinking in Letters: Why Word Processors are Anti-words"
 date: "2020-03-05" 
 draft: false 
 tags : [
