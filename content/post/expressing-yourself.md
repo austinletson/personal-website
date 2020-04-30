@@ -4,8 +4,8 @@ date: 2020-04-29T14:09:05-04:00
 tags : [
     "editors",
     "vim",
-    "google docs",
-    "microsoft word",
+    "regular-expressions",
+    "jane-austen",
 ]
 categories : [
     "editors",
