@@ -68,7 +68,7 @@ is sorted! But this list is still of little use since the items are distributed
 across three grocery stores. The following command can help us out.
 
 ```
-:sort /(.\*)/ r
+:sort /(.*)/ r
 ```
 > Salmon-Fish **(Fresh Market)**   
 > Trout-Fish **(Fresh Market)**   
@@ -96,14 +96,14 @@ line of *Pride and Prejudice* and has erroneously repeated two words.
 
 Now after completing this timeless sentence, Ms. Austen starts a search in
 Vim and with the following regular expression matches the repeated words.
-
+dockhad
 ```
-\(\<\w\+\>\) \1
+\<\(\w\+\) \1\>
 ```
 Here she uses a capture group and a backreference to identify repeated
 words and quickly with a substitution...
 ```
-%s/\(\<\w\+\>\) \1/\1/g
+%s/\<\(\w\+\) \1\>/\1/g
 ```
 > It is a **truth** universally acknowledged, that a single man in possession of a **good** fortune must be in want of a wife.
 
@@ -115,9 +115,9 @@ themselves. Here is an example in the opening lines of *All the Pretty
 Horses*. 
 
 ```
-\(\<\w\+\>\)\(.\{1,50}\1\)\@=
+\<\(\w\+\)\>\(.\{0,50}\<\1\>\)\@=
 ```
-> The **candleflame** and the image of the **candleflame** caught in the
+> The **candleflame** and the image of the candleflame caught in the
 > pierglass and twisted and righted when he entered the hall and again
 > when he shut the door.
 
@@ -129,7 +129,11 @@ Vim we include **\@=** at the end of a capture group to signify
 a lookahead. 
 
 Unlike the first case this by no means indicates a typo and as in the
-sentence above, it is often to great affect.
+sentence above, it is often to great affect. 
+
+As an aside, 'and' and 'the' are also found by this pattern in the above
+example. I think any reasonable implimentation of this feature would
+exclude articles and the like.
 
 ## Vim Rocks
 In closing, Vim rocks. And regular expressions rock. So they go great
