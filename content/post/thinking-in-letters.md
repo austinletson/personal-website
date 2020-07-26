@@ -5,8 +5,8 @@ draft: false
 tags : [
     "editors",
     "vim",
-    "google docs",
-    "microsoft word",
+    "google-docs",
+    "microsoft-word",
 ]
 categories : [
     "editors",
